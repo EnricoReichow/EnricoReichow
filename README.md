@@ -19,6 +19,8 @@
    </div>
   
   ##
-  
+ 
+  ![Snake animation](https://github.com/EnricoReichow/EnricoReichow/blob/output/github-contribution-grid-snake.svg)
+      
     
 
