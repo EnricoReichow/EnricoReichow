@@ -10,7 +10,7 @@
 <center>
 
 [![Social Midia](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/enricoo.r/)&nbsp;
-[![Soial Midia](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enricobernzreichow@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Enrico,%20tudo%20bem?/)&nbsp;
+[![Soial Midia](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enricobernzreichow@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Enrico,%20tudo%20bem?)&nbsp;
 [![Social Midia](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-reichow-415b37213/)&nbsp;
 
 </center>
