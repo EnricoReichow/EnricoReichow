@@ -7,6 +7,14 @@
 - 💬 Contact me at the email address enricobernzreichow@gmail.com
 - ⚡ I love to chill with my friends, play games and go to parties (but with COVID-19 it´s impossible🙄)
 
+<center>
+
+(https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/enricoo.r/)&nbsp;
+(https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enricobernzreichow@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
+(https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-reichow-415b37213/)&nbsp;
+
+</center>
+
 <div>
   <a href="https://github.com/EnricoReichow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoReichow&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -43,7 +51,7 @@
 <td>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
+![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
   
 </td>
 </tr>
