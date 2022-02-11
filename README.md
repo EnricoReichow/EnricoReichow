@@ -3,7 +3,7 @@
 ## Hey ma´ Gs! I am Enrico ✌ Below are some infos about me, hope you enjoy the profile!
 
 - 🔭 I'm looking for a job that deals with technology and programming
-- 🌱 I’m learning all the languages in my bio
+- 🌱 I’m learning all the programming languages in my bio
 - 💬 Contact me at the email address enricobernzreichow@gmail.com
 - ⚡ I love to chill with my friends, play games and go to parties (but with COVID-19 it´s impossible🙄)
 
