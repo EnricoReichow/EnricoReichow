@@ -44,6 +44,17 @@
 </td>
 
 </tr>
+  
+<tr>
+
+<td>Database</td>
+<td>
+
+![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+
+</td>
+</tr>
 
 <tr>
 
