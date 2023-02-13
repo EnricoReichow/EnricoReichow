@@ -1,6 +1,6 @@
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=EnricoReichow&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
-## Hey ma´ Gs! I am Enrico ✌ Below are some infos about me, hope you enjoy the profile!
+## Hey! I am Enrico ✌ Below are some infos about me, hope you enjoy the profile!
 
 - 🔭 I'm looking for a job that deals with technology and programming
 - 🌱 I’m learning all the programming languages in my bio
